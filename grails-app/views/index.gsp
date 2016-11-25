@@ -369,6 +369,154 @@
   </div>
 </section>
 
+<!-- Gallery -->
+    <section class="padding-top-150 padding-bottom-150">
+      <div class="container">
+        <!-- Heading -->
+        <div class="heading text-center">
+          <h3>See Our <span>Latest Work </span></h3>
+          <hr>
+          <p>Competently synergize dynamic schemas for market-driven expertise Dramatically facilitate equity </p>
+        </div>
+
+        <!-- PORTOFLIO ITEMS FILTER -->
+        <div class="text-center portfolio-filter margin-bottom-50">
+          <div id="ajax-work-filter" class="cbp-l-filters-buttonCenter">
+            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"> All
+              <div class="cbp-filter-counter"></div>
+            </div>
+            <div data-filter=".web" class="cbp-filter-item"> Web Design
+              <div class="cbp-filter-counter"></div>
+            </div>
+            <div data-filter=".dev" class="cbp-filter-item"> Development
+              <div class="cbp-filter-counter"></div>
+            </div>
+            <div data-filter=".app" class="cbp-filter-item"> Apps
+              <div class="cbp-filter-counter"></div>
+            </div>
+            <div data-filter=".logo" class="cbp-filter-item"> Logos
+              <div class="cbp-filter-counter"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- PORTFOLIO ITEMS -->
+        <div class="ajax-work">
+          <div class="col-3 gallery">
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item app logo">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-1.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project1.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev ">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-2.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project2.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web app logo">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-3.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project3.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev ">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-4.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project4.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev app logo">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-5.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project5.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev logo">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-6.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project6.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item app logo">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-7.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project1.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev ">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-8.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project2.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web app logo">
+              <div class="gal-item">
+              <img src="${resource(dir: 'images', file: 'img-9.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project3.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev ">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-10.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project4.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev app logo">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-11.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project5.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+            <!-- ITEM -->
+            <div class="cbp-item item portfolio-item web dev logo">
+              <div class="gal-item">
+                <img src="${resource(dir: 'images', file: 'img-12.jpg')}" alt="" class="img-responsive">
+                <div class="hover-info">
+                  <h6>Synergize Dynamic</h6>
+                  <a class="cbp-singlePage" href="ajax-work/project6.html"><i class="ion-link"></i></a> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
 <!-- Work Project GALLERY -->
 <section id="project">
   <div class="container">
@@ -583,6 +731,7 @@
   <asset:javascript src="jquery-countTo.js"/>
   <asset:javascript src="jquery.appear.js"/>
   <asset:javascript src="jquery.mixitup.min.js"/>
+  <asset:javascript src="portfoliojq.js"/>
   <asset:javascript src="portfolio.js"/>
   <asset:javascript src="wow.min.js"/>
   <asset:javascript src="functions.js"/>
