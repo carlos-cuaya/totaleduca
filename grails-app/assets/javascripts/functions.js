@@ -289,7 +289,7 @@ jQuery(function($) {'use strict',
 		  navigation : true,
 		  slideSpeed : 250,
 		  pagination : false,
-		  navigationText :["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
+		  navigationText :["<i class='glyphicon glyphicon-chevron-left'></i>","<i class='glyphicon glyphicon-chevron-right'></i>"],
 		  singleItem:true
 
 	 });

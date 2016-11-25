@@ -217,7 +217,7 @@ button:focus {
 	outline: none;
 }
 h1, h2, h3, h4, #testinomial-slider .item h5 {
-	font-family: 'montserratbold';
+	font-family: 'ubuntubold';
 	margin: 0;
 }
 h1 {
@@ -270,7 +270,7 @@ p.title {
 	margin-bottom: 50px;
 }
 .padding {
-	padding: 7% 0;
+	padding: 5% 0;
 }
 .top-padding {
 	padding-top: 7%;
@@ -787,8 +787,11 @@ Section with image
 	-o-transition: all 500ms linear;
 	transition: all 500ms linear;
 }
+#fixed-collapse-navbar {
+  margin-right: 50px;
+}
 .navbar-default .navbar-nav > li {
-	margin: 0 32px;
+	margin: 0 10px;
 }
 .navbar-default .navbar-nav > li > a {
 	color: #fff;
@@ -1557,6 +1560,7 @@ a.cart-expender:hover{
 	background: url(../images/bg-tes.jpg) no-repeat;
 	background-size: cover;
 	color: #fff;
+  height: 500px;
 }
 #testinomial p {
 	color: #fff;
@@ -1767,7 +1771,7 @@ a.cart-expender:hover{
 }
 .index_2#main-navigation .navbar-brand,
 .index_2 #navigation.affix .navbar-brand{
-	padding-left: 15px;
+	padding-left: 5px;
 }
 .index_2 .navbar-toggle, .index_3 .navbar-toggle {
 	top: 15px;
@@ -4640,7 +4644,7 @@ footer ul.instagram-gallery li a > img {
 
 @media screen and (max-width: 1299px) {
 .navbar-default .navbar-nav > li, .index_2 .navbar-default .navbar-nav > li {
-	margin: 0 20px;
+	margin: 0 5px;
 }
 .index_5 .navbar-default .navbar-nav > li {
 	margin: 0;
@@ -4691,7 +4695,7 @@ footer ul.instagram-gallery li a > img {
 }
 
 .navbar-default .navbar-nav > li {
-	margin: 0 7px;
+	margin: 0 5px;
 }
 .navbar-default .navbar-nav > li > a {
 	font-size: 14px;
@@ -4822,6 +4826,7 @@ p {
 .navbar-brand {
 	display: inline-block;
 }
+
 .navbar-default .navbar-nav > li > a {
 	padding: 12px 0;
 }

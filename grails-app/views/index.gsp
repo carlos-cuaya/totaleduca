@@ -31,7 +31,7 @@
             <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span>
             </button>
            <a class="navbar-brand" href="#">
-               <img style="max-width:140px; margin-top: 10px;" src="${resource(dir: 'images', file: 'logo_TE.png')}" alt="logo" class="img-responsive"></a>
+               <img id="imglogo" style="max-width:140px;margin-top: 10px;" src="${resource(dir: 'images', file: 'logo_TE.png')}" alt="logo" class="img-responsive"></a>
          </div>
 
          <div class="icon-nav pull-right">
@@ -472,18 +472,18 @@
           <h2 class="heading">Testimonios</h2>
         <div id="testinomial-slider" class="owl-carousel">
           <div class="item">
-              <img align="middle" src="${resource(dir: 'images', file: 't1.png')}" alt="t1">
+              <img class="img-circle" src="${resource(dir: 'images', file: 't1.png')}" alt="t1">
             <p>We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry. </p>
             <h5>ohn smith - upwork, client</h5>
           </div>
           <div class="item">
-              <img src="${resource(dir: 'images', file: 't2.png')}" alt="t2">
+              <img class="img-circle" src="${resource(dir: 'images', file: 't2.png')}" alt="t2">
             <p>We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry. </p>
             <h5>ohn smith - upwork, client</h5>
 
          </div>
           <div class="item">
-              <img src="${resource(dir: 'images', file: 't1.png')}" alt="t3">
+              <img class="img-circle" src="${resource(dir: 'images', file: 't1.png')}" alt="t3">
             <p>We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry. </p>
             <h5>ohn smith - upwork, client</h5>
         </div>
