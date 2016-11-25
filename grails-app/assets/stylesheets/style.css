@@ -109,7 +109,7 @@ Table Of Content
 		-.footer-col
 			-.address
 			-.social-link
-			-.nayax-links
+			-.totaleduca-links
 			-.instagram-gallery
 	-.footer-bottom
 
@@ -5503,8 +5503,8 @@ footer .footer-col h4 {
 	padding-bottom: 10px;
 	font-family: 'montserratregular';
 }
-ul.address li, ul.nayax-links li a {
-	font-family: 'source_sans_proregular';
+ul.address li, ul.totaleduca-links li a {
+	font-family: 'ubuntumedium';
 }
 ul.address li {
 	display: block;
@@ -5519,10 +5519,10 @@ ul.address li i {
 	vertical-align: middle;
 	width: 40px;
 }
-ul.social-link li, ul.social-link li a, ul.nayax-links li, .instagram a {
+ul.social-link li, ul.social-link li a, ul.totaleduca-links li, .instagram a {
 	display: inline-block;
 }
-ul.address li, ul.address li a, ul.nayax-links li a {
+ul.address li, ul.address li a, ul.totaleduca-links li a {
 	color: #d0d0d0;
 }
 ul.social-link li {
@@ -5574,19 +5574,19 @@ ul.social-link li a i {
 	width: 100%;
 	z-index: 10;
 }
-ul.nayax-links li {
+ul.totaleduca-links li {
 	width: 49%;
 	margin-bottom: 20px;
 }
-ul.nayax-links li a {
+ul.totaleduca-links li a {
 	font-size: 16px;
 }
-ul.nayax-links li a:hover, ul.nayax-links li a:focus, ul.nayax-links li.active a:hover, ul.nayax-links li.active a {
+ul.totaleduca-links li a:hover, ul.totaleduca-links li a:focus, ul.totaleduca-links li.active a:hover, ul.totaleduca-links li.active a {
 	color: #07aaa5;
 }
-ul.nayax-links li a:before {
-	content: "\f105";
-	font-family: "FontAwesome";
+ul.totaleduca-links li a:before {
+	content: "\f105"; 
+	font-family: "ubuntumedium";
 	margin-right: 10px;
 }
 footer ul.instagram-gallery li {
@@ -5681,11 +5681,11 @@ footer ul.instagram-gallery li a > img {
 	-o-transition: background-color linear 0.3s;
 	transition: background-color linear 0.3s;
 }
-.index_2.footer-col p, .index_2ul.address li, .index_2 ul.nayax-links li a {
-	font-family: 'source_sans_proregular';
+.index_2.footer-col p, .index_2ul.address li, .index_2 ul.totaleduca-links li a {
+	font-family: ubuntumedium;
 	font-size: 16px;
 }
-.index_2 ul.nayax-links li {
+.index_2 ul.totaleduca-links li {
 	width: 49%;
 	margin-bottom: 18px;
 }

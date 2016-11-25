@@ -687,7 +687,6 @@
           <ul class="social-link">
             <li><a href="#" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
             <li><a href="#" class="text-center"><i class="fa fa-twitter"></i><span></span></a></li>
-            <li><a href="#" class="text-center"><i class="fa fa-dribbble"></i><span></span></a></li>
             <li><a href="#" class="text-center"><i class="icon-instagram"></i><span></span></a></li>
           </ul>
         </div>
@@ -696,7 +695,7 @@
         <div class="footer-col">
         <span class="line"></span>
           <h4>Mapa del sitio</h4>
-          <ul class="nayax-links">
+          <ul class="totaleduca-links">
             <li class="active"><a href="#">Inicio</a></li>
             <li><a href="#">Servicios</a></li>
             <li><a href="#">Nosotros</a></li>
