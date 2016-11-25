@@ -472,20 +472,22 @@
           <h2 class="heading">Testimonios</h2>
         <div id="testinomial-slider" class="owl-carousel">
           <div class="item">
-              <img class="img-circle" src="${resource(dir: 'images', file: 't1.png')}" alt="t1">
+              <img class="img-circle cborder" src="${resource(dir: 'images', file: 't1.png')}" alt="t1">
             <p>We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry. </p>
-            <h5>ohn smith - upwork, client</h5>
+            <h4>HANK MORRISON</h4>
+            <h5>Team Manager</h5>
           </div>
           <div class="item">
-              <img class="img-circle" src="${resource(dir: 'images', file: 't2.png')}" alt="t2">
+              <img class="img-circle cborder" src="${resource(dir: 'images', file: 't2.png')}" alt="t2">
             <p>We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry. </p>
-            <h5>ohn smith - upwork, client</h5>
-
+            <h4>LISA APPLEBY</h4>
+            <h5>Freelance Designer</h5>
          </div>
           <div class="item">
-              <img class="img-circle" src="${resource(dir: 'images', file: 't1.png')}" alt="t3">
+              <img class="img-circle cborder" src="${resource(dir: 'images', file: 't1.png')}" alt="t3">
             <p>We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry. </p>
-            <h5>ohn smith - upwork, client</h5>
+            <h4>HANK MORRISON</h4>
+            <h5>Team Manager</h5>
         </div>
       </div>
     </div>
@@ -495,12 +497,14 @@
 <section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 clearfix">
-        <h5 class="hidden">hiddens</h5>
-        <p class="">
+      <div class="col-md-9 clearfix">
+        <p>
         		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
         </p>
-        <a class="btn-common bounce-top-black" href="#">Contacto</a> </div>
+        </div>
+        <div class="col-md-3 clearfix">
+          <a class="btn-common bounce-top-black" href="#">Contacto</a>
+          </div>
     </div>
   </div>
 </section>
