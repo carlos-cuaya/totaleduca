@@ -370,7 +370,7 @@
 </section>
 
 <!-- Gallery -->
-    <section class="padding-top-150 padding-bottom-150">
+    <section class="padding-top-75 padding-bottom-100">
       <div class="container">
         <!-- Heading -->
         <div class="heading text-center">
@@ -382,19 +382,25 @@
         <!-- PORTOFLIO ITEMS FILTER -->
         <div class="text-center portfolio-filter margin-bottom-50">
           <div id="ajax-work-filter" class="cbp-l-filters-buttonCenter">
-            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"> All
+            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"> Todos
               <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".web" class="cbp-filter-item"> Web Design
+            <div data-filter=".web" class="cbp-filter-item"> Educación
               <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".dev" class="cbp-filter-item"> Development
+            <div data-filter=".dev" class="cbp-filter-item"> Marketing digital
               <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".app" class="cbp-filter-item"> Apps
+            <div data-filter=".app" class="cbp-filter-item"> Diseño y publicidad
               <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".logo" class="cbp-filter-item"> Logos
+            <div data-filter=".logo" class="cbp-filter-item"> Desarrollo web
+              <div class="cbp-filter-counter"></div>
+            </div>
+            <div data-filter=".logo" class="cbp-filter-item"> Producción multimedia
+              <div class="cbp-filter-counter"></div>
+            </div>
+            <div data-filter=".logo" class="cbp-filter-item"> Consultoría
               <div class="cbp-filter-counter"></div>
             </div>
           </div>
@@ -406,210 +412,50 @@
             <!-- ITEM -->
             <div class="cbp-item item portfolio-item app logo">
               <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-1.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project1.html"><i class="ion-link"></i></a> </div>
+                <img src="${resource(dir: 'images', file: 'education.png')}" alt="" class="img-responsive">
               </div>
             </div>
             <!-- ITEM -->
             <div class="cbp-item item portfolio-item web dev ">
               <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-2.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project2.html"><i class="ion-link"></i></a> </div>
+                <img src="${resource(dir: 'images', file: 'digital-marketing.png')}" alt="" class="img-responsive">
+
               </div>
             </div>
             <!-- ITEM -->
             <div class="cbp-item item portfolio-item web app logo">
               <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-3.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project3.html"><i class="ion-link"></i></a> </div>
+                <img src="${resource(dir: 'images', file: 'advertising-design.png')}" alt="" class="img-responsive">
+
               </div>
             </div>
             <!-- ITEM -->
             <div class="cbp-item item portfolio-item web dev ">
               <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-4.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project4.html"><i class="ion-link"></i></a> </div>
+                <img src="${resource(dir: 'images', file: 'web-development.png')}" alt="" class="img-responsive">
+
               </div>
             </div>
             <!-- ITEM -->
             <div class="cbp-item item portfolio-item web dev app logo">
               <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-5.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project5.html"><i class="ion-link"></i></a> </div>
+                <img src="${resource(dir: 'images', file: 'multimedia-production.png')}" alt="" class="img-responsive">
+
               </div>
             </div>
             <!-- ITEM -->
             <div class="cbp-item item portfolio-item web dev logo">
               <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-6.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project6.html"><i class="ion-link"></i></a> </div>
+                <img src="${resource(dir: 'images', file: 'consulting.png')}" alt="" class="img-responsive">
+
               </div>
             </div>
-            <!-- ITEM -->
-            <div class="cbp-item item portfolio-item app logo">
-              <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-7.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project1.html"><i class="ion-link"></i></a> </div>
-              </div>
-            </div>
-            <!-- ITEM -->
-            <div class="cbp-item item portfolio-item web dev ">
-              <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-8.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project2.html"><i class="ion-link"></i></a> </div>
-              </div>
-            </div>
-            <!-- ITEM -->
-            <div class="cbp-item item portfolio-item web app logo">
-              <div class="gal-item">
-              <img src="${resource(dir: 'images', file: 'img-9.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project3.html"><i class="ion-link"></i></a> </div>
-              </div>
-            </div>
-            <!-- ITEM -->
-            <div class="cbp-item item portfolio-item web dev ">
-              <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-10.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project4.html"><i class="ion-link"></i></a> </div>
-              </div>
-            </div>
-            <!-- ITEM -->
-            <div class="cbp-item item portfolio-item web dev app logo">
-              <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-11.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project5.html"><i class="ion-link"></i></a> </div>
-              </div>
-            </div>
-            <!-- ITEM -->
-            <div class="cbp-item item portfolio-item web dev logo">
-              <div class="gal-item">
-                <img src="${resource(dir: 'images', file: 'img-12.jpg')}" alt="" class="img-responsive">
-                <div class="hover-info">
-                  <h6>Synergize Dynamic</h6>
-                  <a class="cbp-singlePage" href="ajax-work/project6.html"><i class="ion-link"></i></a> </div>
-              </div>
-            </div>
+
           </div>
         </div>
 
       </div>
     </section>
-
-<!-- Work Project GALLERY -->
-<section id="project">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h2 class="heading">Nuestros últimos proyectos</h2>
-        <div class="work-filter">
-						<ul class="text-center">
-							<li><a href="javascript:;" data-filter="all" class="active filter">Todos</a></li>
-							<li><a href="javascript:;" data-filter=".brand" class="filter">EDUCACIÓN</a></li>
-							<li><a href="javascript:;" data-filter=".design" class="filter">MARKETING DIGITAL</a></li>
-                     <li><a href="javascript:;" data-filter=".graphic" class="filter">DISEÑO Y PUBLICIDAD</a></li>
-							<li><a href="javascript:;" data-filter=".video" class="filter">DESARROLLO WEB</a></li>
-                            <li><a href="javascript:;" data-filter=".graphic" class="filter">PRODUCCIÓN MULTIMEDIA</a></li>
-						</ul>
-					</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row text-center">
-        <div class="col-md-2 col-sm-2">
-        </div>
-      <div class="col-md-3 col-sm-3">
-        <div class="thinker-wrap">
-          <div class="thinker-image">
-          	<img src="${resource(dir: 'images', file: 'education.png')}" alt="Richard" class="img-responsive">
-          </div>
-          <h3>Educación</h3>
-          <small>Proyecto: ITITI</small>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-3">
-        <div class="thinker-wrap">
-          <div class="thinker-image">
-          	<img src="${resource(dir: 'images', file: 'digital-marketing.png')}" alt="Richard" class="img-responsive">
-          </div>
-          <h3>Marketing digital</h3>
-          <small>Proyecto: ITITI</small>
-
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-3">
-        <div class="thinker-wrap">
-          <div class="thinker-image">
-          	<img src="${resource(dir: 'images', file: 'advertising-design.png')}" alt="Richard" class="img-responsive">
-          </div>
-          <h3>Diseño y publicidad</h3>
-          <small>Proyecto: ITITI</small>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row text-center">
-        <div class="col-md-2 col-sm-2">
-        </div>
-      <div class="col-md-3 col-sm-3">
-        <div class="thinker-wrap">
-          <div class="thinker-image">
-          	<img src="${resource(dir: 'images', file: 'web-development.png')}" alt="Richard" class="img-responsive">
-          </div>
-          <h3>Desarrollo web</h3>
-          <small>Proyecto: ITITI</small>
-
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-3">
-        <div class="thinker-wrap">
-          <div class="thinker-image">
-          	<img src="${resource(dir: 'images', file: 'multimedia-production.png')}" alt="Richard" class="img-responsive">
-          </div>
-          <h3>Producción Multimedia</h3>
-          <small>Proyecto: ITITI</small>
-
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-3">
-        <div class="thinker-wrap">
-          <div class="thinker-image">
-          	<img src="${resource(dir: 'images', file: 'consulting.png')}" alt="Richard" class="img-responsive">
-          </div>
-          <h3>Consultoría</h3>
-          <small>Proyecto: ITITI</small>
-
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 <!-- Testinomials -->
 <section id="testinomial" class="padding">
