@@ -6,8 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Total Educa</title>
 <asset:stylesheet src="bootstrap.css"/>
-<asset:stylesheet src="font-awesome.min.css"/>
-<asset:stylesheet src="icomoon-fonts.css"/>
+<asset:stylesheet src="font-awesome.css"/>
 <asset:stylesheet src="animate.min.css"/>
 <asset:stylesheet src="settings.css"/>
 <asset:stylesheet src="owl.carousel.css"/>
@@ -525,14 +524,14 @@
           <h4>Contacto</h4>
 
           <ul class="address">
-            <li><i><img  src="${resource(dir: 'images', file: 'pin.png')}" ></i>calle<br>
+            <li><i class="icon-map-marker"></i>calle<br>
               Puebla, Puebla</li>
-            <li><i> <img  src="${resource(dir: 'images', file: 'phone.png')}" > </i>(222) 2222222</li>
-            <li><a href="mailto:email@website.com"><i><img  src="${resource(dir: 'images', file: 'mail.png')}" ></i>email@website.com</a></li>
+            <li><i class="icon-phone"></i>(222) 2222222</li>
+            <li><a href="mailto:email@website.com"><i class="icon-envelope"></i>email@website.com</a></li>
           </ul>
           <ul class="social-link">
-            <li><a href="#" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
-            <li><a href="#" class="text-center"><i class="fa fa-twitter"></i><span></span></a></li>
+            <li><a href="#" class="text-center"><i class="icon-facebook"></i><span></span></a></li>
+            <li><a href="#" class="text-center"><i class="icon-twitter"></i><span></span></a></li>
             <li><a href="#" class="text-center"><i class="icon-instagram"></i><span></span></a></li>
           </ul>
         </div>
@@ -542,11 +541,11 @@
         <span class="line"></span>
           <h4>Mapa del sitio</h4>
           <ul class="totaleduca-links">
-            <li class="active"><a href="#">Inicio</a></li>
-            <li><a href="#">Servicios</a></li>
-            <li><a href="#">Nosotros</a></li>
-            <li><a href="#">Portafolio</a></li>
-            <li><a href="#">Testimonios</a></li>
+            <li class="active"><i class="icon-angle-right"></i><a href="#">  Inicio</a></li>
+            <li><i class="icon-angle-right"></i><a href="#">  Servicios</a></li>
+            <li><i class="icon-angle-right"></i><a href="#">  Nosotros</a></li>
+            <li><i class="icon-angle-right"></i><a href="#">  Portafolio</a></li>
+            <li><i class="icon-angle-right"></i><a href="#">  Testimonios</a></li>
           </ul>
         </div>
       </div>

@@ -115,18 +115,7 @@ Table Of Content
 
 */
 
-
-
-
-
 /*Fonts*/
-@font-face {
-	font-family: 'montserratblack';
-	src: url('../fonts/glyphicons-halflings-regular.eot');
-	src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'),  url('../fonts/glyphicons-halflings-regular.woff') format('woff'),  url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'),  url('../fonts/glyphicons-halflings-regular.svg#montserratblack') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 @font-face {
 	font-family: 'montserratlight';
 	src: url('../fonts/glyphicons-halflings-regular.eot');
@@ -5585,7 +5574,6 @@ ul.totaleduca-links li a:hover, ul.totaleduca-links li a:focus, ul.totaleduca-li
 	color: #07aaa5;
 }
 ul.totaleduca-links li a:before {
-	content: "\f105";
 	font-family: "ubuntumedium";
 	margin-right: 10px;
 }
