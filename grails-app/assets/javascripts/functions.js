@@ -341,7 +341,7 @@ var t = this;
 		  navigation : true,
 		  slideSpeed : 250,
 		  pagination : false,
-		  navigationText :["<i class='glyphicon glyphicon-chevron-left'></i>","<i class='glyphicon glyphicon-chevron-right'></i>"],
+		  navigationText :["<i class='icon-chevron-left'></i>","<i class='icon-chevron-right'></i>"],
 		  singleItem:true
 
 	 });
@@ -351,7 +351,7 @@ var t = this;
     $("#publication-slider").owlCarousel({
 		  autoPlay: true,
 		  pagination : false,
-		  navigationText :["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
+		  navigationText :["<i class='icon-angle-left'></i>","<i class='icon-angle-right'></i>"],
 		  navigation : true,
 		  items : 3,
 		  itemsDesktop : [1199,3],
@@ -386,7 +386,7 @@ var t = this;
 	 $("#about-slider,.cart-slider").owlCarousel({
 		  autoPlay :2500,
 		  pagination : false,
-		  navigationText :["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
+		  navigationText :["<i class='icon-angle-left'></i>","<i class='icon-angle-right'></i>"],
 		  navigation : true,
 		  singleItem:true
 
@@ -398,7 +398,7 @@ var t = this;
 		  autoPlay: 2000, //Set AutoPlay to 3 seconds
 		  items : 4,
 		  navigation : true,
-		  navigationText :["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
+		  navigationText :["<i class='icon-angle-left'></i>","<i class='icon-angle-right'></i>"],
 		  itemsDesktop : [1199,3],
 		  itemsDesktopSmall : [979,3]
 
@@ -428,7 +428,7 @@ var t = this;
       autoPlay: true,
       items : 4,
 		pagination : false,
-		navigationText :["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
+		navigationText :["<i class='icon-angle-left'></i>","<i class='icon-angle-right'></i>"],
 		navigation : true,
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3]

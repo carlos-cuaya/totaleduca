@@ -35,10 +35,13 @@
 
          <div class="icon-nav pull-right">
             <ul>
-              <li><a href="#search"><i><img style="max-width:15px; margin-top: -5px; margin-left: 40px; margin-right: 0px" src="${resource(dir: 'images', file: 'lens.png')}" ></i></a></li>
+             <!-- <li><a href="#search"><i><img style="max-width:15px; margin-top: -5px; margin-left: 40px; margin-right: 0px" src="${resource(dir: 'images', file: 'lens.png')}" ></i></a></li> -->
+              <li><a href="#search"> <i class="social-menu icon-search"></i> </a> </li>
               <li><a href="#search"><i> <button type="button" class="menu-button"> Entrar </button> </i></a></li>
-              <li><a href="#search"><i><img style="max-width:11px; margin-top: -5px;" src="${resource(dir: 'images', file: 'facebook.png')}" ></i></a></li>
-              <li><a href="#search"><i><img style="max-width:17px; margin-top: -2px;" src="${resource(dir: 'images', file: 'twitter.png')}" ></i></a></li>
+              <!-- <li><a href="#search"><i><img style="max-width:11px; margin-top: -5px;" src="${resource(dir: 'images', file: 'facebook.png')}" ></i></a></li> -->
+              <li><a href="#search"><i class="social-menu icon-facebook"></i> </a> </li>
+              <li><a href="#search"><i class="social-menu icon-twitter"></i> </a> </li>
+
     <!--          <li><a href="#search"><i><img  src="${resource(dir: 'images', file: 'instagram.png')}" ></i></a></li> -->
             </ul>
           </div>
@@ -554,7 +557,7 @@
   </div>
 </footer>
 <div class="footer-bottom text-center">
-<a href="#" class="go-top text-center"><i class="fa fa-angle-double-up"></i></a>
+<a href="#" class="go-top text-center"><i class="icon-double-angle-up"></i></a>
   <div class="container">
     <div class="row">
       <div class="col-md-12">

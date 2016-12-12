@@ -2756,7 +2756,7 @@ Portfolio js
 	color: #FFF;
 }
 #testinomial-slider .owl-prev, #testinomial-slider .owl-next, #publication-slider .owl-prev, #publication-slider .owl-next, #about-slider .owl-prev, #about-slider .owl-next {
-	top: 40%;
+	top: 5%;
 	position: absolute;
 	background: transparent;
 	height: 38px;
@@ -4196,6 +4196,10 @@ Portfolio js
 }
 .blog-item ul.social-link li a > i:hover {
 	color: #fff;
+}
+.social-menu {
+    color: #fff;
+    font-size: 17px;
 }
 .blog-reply {
 	padding: 10px;
