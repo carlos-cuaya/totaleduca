@@ -604,7 +604,7 @@ $(".input-number").keydown(function (e) {
 	  $(document).on('click', function () {
         $('.cbp-spmenu-right').removeClass('menu-open');
     });
-    $('#menu-toggle').on('click', function (e) {
+    $('#menu-toggle').on('click', function (e) { 
         e.stopPropagation();
         $('.cbp-spmenu-right').toggleClass('menu-open');
     });

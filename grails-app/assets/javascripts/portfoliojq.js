@@ -1,9 +1,8 @@
 /*!
  *
  */
-! function(a, b, c, d) {
-
-
+!function(a, b, c, d) {
+    
     function e(b, c, d) {
         var f, g = this,
             h = "cbp";
